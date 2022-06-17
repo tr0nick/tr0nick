@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou @tr0nick, sou brasileiro e tenho 23 anos.
+- 👋 Olá, meu nome é Aloysio Vilas Boas, sou brasileiro e tenho 23 anos.
 - 👀 Estou iniciando no mundo da programação.
 - 🌱 Estou concluindo o bacharelado em direito em 2022 mas decidi seguir a profissão que sempre amei.
 - 💞️ Procuro pessoas para trocar experiências e aprendizados, tenho muita garra e vontade de aprender. Pretendo me aperfeiçoar e conseguir uma oportunidade no mercado de trabalho.
